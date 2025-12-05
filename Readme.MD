@@ -16,7 +16,7 @@ The goal of the project is to make personal finance tracking simple, fast, and v
 
 ## 🛠️ Tech Stack
 
-| Layer      | Tool        |
+| **Layer**      | **Tool**        |
 |------------|-------------|
 | Frontend   | Streamlit   |
 | Backend    | FastAPI     |
@@ -32,7 +32,7 @@ The goal of the project is to make personal finance tracking simple, fast, and v
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/itsmoksh/Expense-Management-System.git
+https://github.com/DsVirat/Expense-Tracking-System.git
 cd project_expense_management
 ```
 
@@ -80,15 +80,15 @@ streamlit run app.py
 
 ##  Dashboard Preview
 
-- Form: quick add/update of daily expenses
+- **Form**: quick add/update of daily expenses
 
-- Table: total and percentage share by category
+- **Table**: total and percentage share by category
 
-- Bar chart: category-wise expense breakdown
+- **Bar chart**: category-wise expense breakdown
 
-- Bar chart: month-wise spending overview
+- **Bar chart**: month-wise spending overview
 
-- Summary: clear monthly and category totals
+- **Summary**: clear monthly and category totals
 
 ---
 
