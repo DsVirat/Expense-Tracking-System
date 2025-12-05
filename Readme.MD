@@ -25,9 +25,7 @@ The goal of the project is to make personal finance tracking simple, fast, and v
 
 ## 📂 Project Structure
 
-
-<img src="C:\Users\hp\OneDrive\Desktop\Project_Architecture.png" alt="Expense Tracking System Architecture" width="800">
-
+<img src="assets/Project_Architecture.png" alt="Expense Tracking System Architecture" width="800">
 
 ##  Setup Instructions
 
